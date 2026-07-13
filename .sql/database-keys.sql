@@ -1,0 +1,3 @@
+-- System exploration operations to verify schema layouts inside SQLite:
+-- .schema tracks
+-- .schema customers
